@@ -16,11 +16,15 @@ format:
     - litera
     - theme/theme.scss
     title-block-banner: false
+metadata-files:
+- nbdev.yml
+- sidebar.yml
 project:
   preview:
     browser: false
     host: 0.0.0.0
     port: 8888
+  type: website
 website:
   cookie-consent: false
   favicon: theme/logo/logo-small.png

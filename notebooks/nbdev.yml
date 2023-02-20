@@ -4,6 +4,6 @@ project:
 website:
   title: "notiontools"
   site-url: "https://tjpalanca.com/notiontools"
-  description: "Notion Tools"
+  description: "Notion for Knowledge Management"
   repo-branch: master
   repo-url: "https://github.com/tjpalanca/notiontools.git"
