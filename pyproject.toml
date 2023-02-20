@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "notiontools"
+version = "0.1.0"
+description = "Notion Tools"
+authors = ["TJ P <mail@tjpalanca.com>"]
+license = "AGPL-3.0"
+readme = "README.md"
+homepage = "https://tjpalanca.com/notionstools"
+documentation = "https://tjpalanca.com/notionstools"
+repository = "https://github.com/tjpalanca/notionstools.git"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+tjutils = "^0.10.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

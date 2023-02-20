@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "notiontools"
+  site-url: "https://tjpalanca.com/notionstools"
+  description: "Notion Tools"
+  repo-branch: master
+  repo-url: "https://github.com/tjpalanca/notionstools.git"
