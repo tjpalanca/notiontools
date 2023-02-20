@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Notion Tools",
+    "section": "",
+    "text": "Tools for working with Notion"
+  },
+  {
+    "objectID": "index.html#motivation",
+    "href": "index.html#motivation",
+    "title": "Notion Tools",
+    "section": "Motivation",
+    "text": "Motivation\nThe goal of this project is to provide some utilities for working with particularly for reading, synthesizing, and writing down coalesced thoughts."
+  },
+  {
+    "objectID": "index.html#features",
+    "href": "index.html#features",
+    "title": "Notion Tools",
+    "section": "Features",
+    "text": "Features\n\nSend Kindle highlights to Notion"
+  }
+]
