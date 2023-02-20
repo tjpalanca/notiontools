@@ -3,7 +3,7 @@ project:
 
 website:
   title: "notiontools"
-  site-url: "https://tjpalanca.com/notionstools"
+  site-url: "https://tjpalanca.com/notiontools"
   description: "Notion Tools"
   repo-branch: master
-  repo-url: "https://github.com/tjpalanca/notionstools.git"
+  repo-url: "https://github.com/tjpalanca/notiontools.git"
